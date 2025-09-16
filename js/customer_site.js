@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '八八',
+        name: '资源',
     }
 };
 
